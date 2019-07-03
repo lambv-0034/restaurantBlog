@@ -1,0 +1,22 @@
+{
+  "name": "restaurantBlog",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Bui Van Lam <bui.van.lam@sun-asterisk.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/lambv-0034/restaurantBlog",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "git@github.com:twbs/bootstrap.git#^4.3.1",
+    "Font-Awesome": "git@github.com:FortAwesome/Font-Awesome.git#^5.9.0",
+    "jquery": "git@github.com:jquery/jquery.git#^3.4.1"
+  }
+}
